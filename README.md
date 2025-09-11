@@ -22,7 +22,7 @@ TECH STACK : HTML, CSS(TAILWIND), JS(NEXT.JS), SHAD/CN COMPONENTS, PDF.JS, EXPRE
 | Language     | Usage                          |
 |--------------|-------------------------------|
 | TypeScript   | Frontend and backend logic [1] |
-| CSS tailwing | Styling and UI                |
+| CSS tailwind | Styling and UI                |
 | JavaScript   | Additional frontend utilities |
 
 ***
